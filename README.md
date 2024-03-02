@@ -11,6 +11,7 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
     <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" height="25" width="auto" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" height="25" width="auto" /> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" height="25" width="auto" /> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white" height="25" width="auto" />
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" height="25" width="auto" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" height="25" width="auto" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white" height="25" width="auto" />
@@ -19,18 +20,3 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kender-Mendoza&hide_progress=false" /> 
 
-## Projects
-
-### [Project 1 Name]
-
-Brief description of the project.
-
-- Link to the project repository
-- Any relevant links or demo
-
-### [Project 2 Name]
-
-Brief description of the project.
-
-- Link to the project repository
-- Any relevant links or demo
