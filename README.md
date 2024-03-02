@@ -21,5 +21,7 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
 <img align='right' src='https://i.pinimg.com/originals/74/34/67/7434678df2212e5b7aeedf5c35c36c0d.gif' width='200'>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kender-Mendoza&hide_progress=false" /> 
 
-Thanks for visiting my Github profile! 👽
-Follow me. 👾
+## 
+
+#### Thanks for visiting my Github profile! 👽 
+#### Follow me. 👾
