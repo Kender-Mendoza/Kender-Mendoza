@@ -5,6 +5,9 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
 ## 🛠 Skills and Tools
 
 <p> 
+    <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" height="25" width="auto" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white" height="25" width="auto" />
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white" height="25" width="auto" />
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-maroon?style=flat-square&logo=ruby&logoColor=white" height="25" width="auto" />
     <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-red?style=flat-square&logo=ruby-on-rails&logoColor=white" height="25" width="auto" /> 
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" height="25" width="auto" />
@@ -17,8 +20,8 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
     <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-lightgrey?style=flat-square&logo=coffeescript&logoColor=white" height="25" width="auto" />
 </p>
 
-<img align='right' src='https://i.pinimg.com/originals/74/34/67/7434678df2212e5b7aeedf5c35c36c0d.gif' width='200'>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kender-Mendoza&hide_progress=false" /> 
+<img align='left' src='https://i.pinimg.com/originals/74/34/67/7434678df2212e5b7aeedf5c35c36c0d.gif' width='200'>
+<!--img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kender-Mendoza&hide_progress=false" /--> 
 
 ## 
 
