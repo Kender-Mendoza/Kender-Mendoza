@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have experience with Django, Ruby on Rails, JavaScript, and some other technologies. I like to solve problems and look for exciting new tools or techniques to incorporate into my projects and improve my skills.
+Hey there! 👋 I'm Kender Mendoza, a software engineer. Currently, I have experience with Python, JavaScript, Ruby, and some other technologies. I like to solve problems and look for exciting new tools or techniques to incorporate into my projects and improve my skills.
 
 ## 🛠 Skills and Tools
 
