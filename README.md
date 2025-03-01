@@ -11,7 +11,7 @@ Hey there! 👋 I'm Kender Mendoza, a software developer. Currently, I have expe
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-maroon?style=flat-square&logo=ruby&logoColor=white" height="25" width="auto" />
     <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-red?style=flat-square&logo=ruby-on-rails&logoColor=white" height="25" width="auto" /> 
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" height="25" width="auto" />
-    <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" height="25" width="auto" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="25" width="auto" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" height="25" width="auto" /> 
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white" height="25" width="auto" />
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" height="25" width="auto" />
