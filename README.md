@@ -17,7 +17,6 @@ Hey there! 👋 I'm Kender Mendoza, a software engineer. Currently, I have exper
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" height="25" width="auto" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" height="25" width="auto" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white" height="25" width="auto" />
-    <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-lightgrey?style=flat-square&logo=coffeescript&logoColor=white" height="25" width="auto" />
 </p>
 
 <img src='https://i.pinimg.com/originals/74/34/67/7434678df2212e5b7aeedf5c35c36c0d.gif' width='200'>
